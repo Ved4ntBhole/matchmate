@@ -1,5 +1,7 @@
 # 2-minute demo script
 
+Live app: https://matchmatee.streamlit.app
+
 Record on a phone-sized browser window (Chrome DevTools → device toolbar → iPhone 12), or
 screen-record your real phone. Match: **Change match → Thrillers → PBKS vs KKR · 15 Apr 2025**.
 

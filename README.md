@@ -1,6 +1,8 @@
 # MatchMate: an AI second screen for live cricket
 
-**Live demo:** `<add your Streamlit Cloud link here>` · **Demo video:** `<add your 2-minute video link here>`
+**Live demo: [matchmatee.streamlit.app](https://matchmatee.streamlit.app)**. Best on a phone.
+It opens on a 2025 thriller: tap *Next over*, or *Auto-play*, and watch the odds swing.
+<!-- Demo video: add the 2-minute video link here once recorded (see docs/DEMO_SCRIPT.md). -->
 
 > A casual fan has the IPL on TV and their phone in hand. MatchMate tells them, ball by ball,
 > who's winning, why a moment mattered, and what to watch for next. It also lets them play
