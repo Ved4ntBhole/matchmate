@@ -1,0 +1,11 @@
+.venv/
+__pycache__/
+*.pyc
+.pytest_cache/
+# Raw Cricsheet JSON (~100 MB): re-download with scripts/download_data.py
+data/raw/
+# Leaderboard written at runtime
+data/leaderboard.json
+# Never commit secrets
+.streamlit/secrets.toml
+.env
